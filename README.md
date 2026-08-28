@@ -1,4 +1,6 @@
-# Malaysia's E-Waste Opportunity: Recoverable Value vs. Formal Capture
+# Malaysia's E-Waste Opportunity: Recoverable Value vs. Formal Capture (2019–2021 Data, 2026 Pricing)
+
+<img src="./assets/hero.png" width="720" alt="Gold drives ~90% of recoverable value, despite being a trace fraction of the mass">
 
 ## The Question
 
@@ -40,6 +42,15 @@ Every figure is labeled **PUBLIC**, **DERIVED** (this session directly fetched a
 ## Methodology
 
 Business problem → objectives → data acquisition → cleaning → analysis → visualization → insight → recommendation. Same structure as 001–003, applied to a topic where the honest answer is "large opportunity, real uncertainty, and a competing informal market" rather than a clean, government-verified number.
+
+## Reproducing This Analysis
+
+```bash
+pip install -r requirements.txt
+jupyter notebook notebooks/
+```
+
+All data used is already included in `data/processed/` — notebooks read directly from there, so no external downloads are required to re-run the analysis.
 
 ## Repository Structure
 
