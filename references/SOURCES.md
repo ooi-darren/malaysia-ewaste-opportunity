@@ -19,3 +19,10 @@ Full citations for every figure used in this case study. See `DATA_DICTIONARY.md
 ## Metal prices
 
 - Kitco.com — spot precious metals price page (gold, silver) and base metals page (copper). Fetched 27–28 August 2026.
+
+## Context / Secondary Sources (Qualitative)
+
+These support the "Why Is This Happening?" section added to Notebook 02 — they explain the mechanism behind the capture-gap finding but are not themselves PUBLIC/DERIVED/ESTIMATED datasets, so they're kept separate here rather than mixed into the tables above.
+
+- Monash Lens (2023). "Understanding Malaysia's informal e-waste recycling sector." https://lens.monash.edu/understanding-the-informal-e-waste-recycling-sector-in-malaysia/ (also cited above for the generation/collection figures).
+- BusinessToday (2023). "Informal e-waste recycling in Malaysia: Where do your household electronics end up?" https://www.businesstoday.com.my/2023/01/15/informal-e-waste-recycling-in-malaysia-where-do-your-household-electronics-end-up/

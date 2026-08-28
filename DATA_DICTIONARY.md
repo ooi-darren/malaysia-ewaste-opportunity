@@ -4,6 +4,8 @@ This document defines every variable used in the Malaysia E-Waste Opportunity an
 
 **This case study leans more heavily on ESTIMATED data than 001–003.** Malaysia does not have a DOSM-style official e-waste statistics series; the best available figures come from a UN monitor report and academic literature, several of which were only accessible via secondary citation, not the primary document itself. That limitation is stated here and repeated in the notebook, not hidden.
 
+**A separate "Why Is This Happening?" section at the end of Notebook 02 adds qualitative context** — secondary-sourced explanation (news reporting, research on Malaysia's informal recycling sector) for the mechanism behind the capture-gap finding. That content is deliberately *not* classified PUBLIC/DERIVED/ESTIMATED like the datasets in this file, since it's explanatory reporting rather than a number this project is asserting — full citations are in [`references/SOURCES.md`](./references/SOURCES.md) under "Context / Secondary Sources."
+
 ---
 
 ## ewaste_generation_estimate.csv
