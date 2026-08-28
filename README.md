@@ -2,13 +2,7 @@
 
 <img src="./assets/hero.png" width="720" alt="Gold drives ~90% of recoverable value, despite being a trace fraction of the mass">
 
-## Explain It Simply
-
-Old phones, laptops, and other electronics thrown away contain small amounts of real metal — including actual gold — inside their circuit boards. This project asks two questions: how much is all that metal, spread across every piece of e-waste in Malaysia, actually worth? And is anyone actually collecting and recycling it properly?
-
-The answers: it's worth a genuinely large amount — likely between USD 260 and 520 million, with gold alone making up about 90% of that value even though it's a tiny fraction of the actual weight (gold is just worth a lot more per gram than copper or silver). But almost none of it is being captured by Malaysia's official, government-tracked recycling system — under 1% by weight. That does **not** mean the rest is sitting around waiting for someone to grab it. Malaysia already has an active informal network of collectors who buy old electronics directly from households, mostly outside any official system — so a lot of that "missing" value is probably already being recycled, just not in a way the government counts.
-
-The lesson for a business: a big estimated number ("USD 250 million+ opportunity!") can be real and still not be a good business opportunity, if someone else already quietly claimed it first. (New to terms like "PCB" or "informal sector"? See the [Glossary](#glossary) near the bottom.)
+**Part of a [5-case-study portfolio](https://github.com/ooi-darren)** — see the other four.
 
 ## The Question
 
@@ -24,6 +18,14 @@ How much economic value in recoverable metals (copper, gold, silver) sits inside
 
 **2. Formal collection captures well under 1% of that stream by weight — but that gap is not simply an open business opportunity.** Malaysia's Department of Environment collected 2,459 tonnes of household e-waste in 2021, against an estimated 364,000 tonnes generated in 2019. Malaysia has an active informal e-waste recycling sector already pricing and collecting this material outside government tracking — a new formal entrant would be competing against that existing market, not discovering unclaimed material. This notebook argues explicitly against the "USD 250M+ sitting untapped" reading its own Notebook 01 might invite. *([Notebook 02](./notebooks/02-formal-capture-gap.ipynb))*
 **Why:** Malaysia has no legislative framework specifically covering household e-waste — collection is voluntary, so door-to-door informal scavengers who pay households on the spot naturally outcompete a formal system most people don't know exists. *(Full explanation in Notebook 02's "Why Is This Happening?" section.)*
+
+## Explain It Simply
+
+Old phones, laptops, and other electronics thrown away contain small amounts of real metal — including actual gold — inside their circuit boards. This project asks two questions: how much is all that metal, spread across every piece of e-waste in Malaysia, actually worth? And is anyone actually collecting and recycling it properly?
+
+The answers: it's worth a genuinely large amount — likely between USD 260 and 520 million, with gold alone making up about 90% of that value even though it's a tiny fraction of the actual weight (gold is just worth a lot more per gram than copper or silver). But almost none of it is being captured by Malaysia's official, government-tracked recycling system — under 1% by weight. That does **not** mean the rest is sitting around waiting for someone to grab it. Malaysia already has an active informal network of collectors who buy old electronics directly from households, mostly outside any official system — so a lot of that "missing" value is probably already being recycled, just not in a way the government counts.
+
+The lesson for a business: a big estimated number ("USD 250 million+ opportunity!") can be real and still not be a good business opportunity, if someone else already quietly claimed it first. (New to terms like "PCB" or "informal sector"? See the [Glossary](#glossary) near the bottom.)
 
 ## Why This Project
 
