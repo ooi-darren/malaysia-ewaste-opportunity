@@ -1,0 +1,4 @@
+metal,price_usd_per_gram,price_date,source,classification
+Gold,147.94,2026-08-28,"Kitco.com spot precious metals price page, fetched 2026-08-28",PUBLIC
+Silver,2.26,2026-08-28,"Kitco.com spot precious metals price page, fetched 2026-08-28",PUBLIC
+Copper,0.01442,2026-08-27,"Kitco.com base metals copper price ($6.5439/lb, converted to USD/gram), fetched 2026-08-27",PUBLIC

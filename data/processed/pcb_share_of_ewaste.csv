@@ -1,0 +1,3 @@
+estimate_type,share_pct,source,classification
+Low,3,"Commonly cited range in e-waste recycling literature (waste printed circuit boards as share of total e-waste by weight); this session sourced the range via web search summaries of multiple academic reviews, not a single directly-fetched primary paper - treat as a rough industry-consensus range, not a precise figure.",ESTIMATED
+High,6,"Same range as Low row - upper bound of commonly cited 3-6% range.",ESTIMATED

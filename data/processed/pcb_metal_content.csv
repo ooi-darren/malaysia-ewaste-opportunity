@@ -1,0 +1,4 @@
+metal,content_value,content_unit,source,classification
+Copper,14.2,wt_pct,"Bizzo, W.A.; Figueiredo, R.A.; de Andrade, V.F. (2014). 'Characterization of Printed Circuit Boards for Metal and Energy Recovery after Milling and Mechanical Separation.' Materials, 7(6), 4555-4566. Sampled PCBs from discarded XT/486/Pentium-era desktop computers.",DERIVED
+Gold,142,ppm,"Bizzo, W.A.; Figueiredo, R.A.; de Andrade, V.F. (2014). Materials, 7(6), 4555-4566. Same source as Copper row. Authors note gold content in PCBs has declined over time from >1000 ppm reported in 1993-1995 studies, due to device miniaturization and design changes.",DERIVED
+Silver,317,ppm,"Bizzo, W.A.; Figueiredo, R.A.; de Andrade, V.F. (2014). Materials, 7(6), 4555-4566. Same source as Copper row.",DERIVED
