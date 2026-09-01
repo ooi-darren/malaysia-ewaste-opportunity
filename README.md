@@ -2,7 +2,7 @@
 
 <img src="./assets/hero.png" width="720" alt="Gold drives ~90% of recoverable value, despite being a trace fraction of the mass">
 
-**Part of an [9-case-study portfolio](https://github.com/ooi-darren)**. See the other seven.
+**Part of a [8-case-study portfolio](https://github.com/ooi-darren)**. See the other seven.
 
 ## The Question
 
