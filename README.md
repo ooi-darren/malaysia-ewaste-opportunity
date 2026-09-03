@@ -47,7 +47,7 @@ Every figure is labeled **PUBLIC**, **DERIVED** (this session directly fetched a
 
 | # | Question | Data Rigor |
 |---|---|---|
-| [01: Recoverable Value Sizing](./notebooks/01-recoverable-value-sizing.ipynb) | How much is the recoverable metal value in Malaysia's e-waste stream actually worth? | DERIVED + ESTIMATED |
+| [01: Recoverable Value Sizing](./notebooks/01-recoverable-value-sizing.ipynb) | How much is the recoverable metal value in Malaysia's e-waste stream actually worth? | PUBLIC + DERIVED + ESTIMATED |
 | [02: Formal Capture Gap](./notebooks/02-formal-capture-gap.ipynb) | How much of that value is formal recycling capturing, and why is the gap not simply an opportunity? | ESTIMATED |
 
 ## Methodology
